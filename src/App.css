@@ -100,3 +100,9 @@ box-shadow: 10px 10px 300px 99px rgba(0,0,0,0.79);
   margin-top: 11px;
   margin-left: 600px;
 }
+
+.spinner {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+}
